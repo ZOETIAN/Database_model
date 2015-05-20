@@ -1,1 +1,4 @@
 # Database_model
+Back to Dalhousie, I did this with my best friend Jason.
+All the data are from the reseach group of Standford University.
+
