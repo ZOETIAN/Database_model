@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <title>PPTS</title>
     <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 </head>
