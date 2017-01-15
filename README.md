@@ -8,11 +8,13 @@ Basic Features
 
 Allows user to query the reading table of our database in order to view only the columns they are interested in.
 Results presented in a table format and can be ordered by different attribute types and sorted in ascending or descending order.
+
 PPTS Mechanism
 
 PPTS starts with the attachment of radio transmitter tags to a wide variety of marine species.
 Tags are detected by a series of buoys in the ocean.
 Each buoy transmits their data to stations on land via a satellite network where the data can be organized for analysis.
+
 Tool Sets
 
 Database was created with phpmyadmin within an XAMPP environment with an SQL backbone
